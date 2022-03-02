@@ -9,7 +9,7 @@
     "sse",
     "polyfill"
   ],
-  "homepage": "http://github.com/EventSource/eventsource",
+  "homepage": "http://github.com/meitner-se/eventsource",
   "author": "Aslak Hellesøy <aslak.hellesoy@gmail.com>",
   "repository": {
     "type": "git",
