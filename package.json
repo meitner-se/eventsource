@@ -1,6 +1,6 @@
 {
   "name": "@meitner/eventsource",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "W3C compliant EventSource client for Node.js and browser (polyfill)",
   "keywords": [
     "eventsource",
@@ -9,7 +9,7 @@
     "sse",
     "polyfill"
   ],
-  "homepage": "http://github.com/EventSource/eventsource",
+  "homepage": "http://github.com/meitner-se/eventsource",
   "author": "Aslak Hellesøy <aslak.hellesoy@gmail.com>",
   "repository": {
     "type": "git",

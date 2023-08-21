@@ -9,7 +9,7 @@ You can use it with Node.js or as a browser polyfill for
 
 ## Install
 
-    npm install eventsource
+    yarn add @meitner/eventsource
 
 ## Example
 
