@@ -1,6 +1,6 @@
 {
   "name": "@meitner/eventsource",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "W3C compliant EventSource client for Node.js and browser (polyfill)",
   "keywords": [
     "eventsource",
